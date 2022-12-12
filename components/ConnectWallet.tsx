@@ -18,7 +18,7 @@ import { FaDiscord, FaPhoneAlt } from "react-icons/fa";
 const ZH = {
   heroTitle: "Metalion\n俱樂部 🎉",
   subtitle:
-    "雄獅集團的 Web3 社群平台，以旅遊為核心。\n賦能食宿遊購行領域，打造華語旅遊 Web3 最佳社群",
+    "雄獅集團的 Web3 社群平台，以旅遊為核心。\n\n賦能食宿遊購行領域，打造華語旅遊 Web3 最佳社群",
   connectWalletDesc: "gonna 兌換咖啡，\n活動已於8/5結束。\n新的優惠即將展開...",
   discordDesc: "追蹤最新活動消息，\n請加入 Metalion Discord ",
   travelshowDesc: "宙獅計劃Metalion，\n搶先註冊！",
